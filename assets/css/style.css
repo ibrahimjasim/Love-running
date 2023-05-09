@@ -187,16 +187,17 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url("../images/ethos-center-image.jpg") no-repeat center center;
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 
 }
 
+
 /* event times */
 
 #times {
-    background-image: url(../images/dublin-city.webp);
+    background-image: url('../images/dublin-city.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -204,6 +205,7 @@ hr {
     overflow: hidden;
 
 }
+
 
 #times div {
     color: #fafafa;
@@ -221,6 +223,8 @@ hr {
 #times h2 {
 
     color: #fafafa;
+
+
 }
 
 
@@ -234,7 +238,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
